@@ -28,7 +28,7 @@ I'm a software developer with junior-level experience in:
 ## 📫 Connect with Me!  
 - **LinkedIn**: [Bryan Daniel Macias López](https://www.linkedin.com/in/danielmaciassoftware/)  
 - **Email**: danbrymadev@gmail.com
-- **Portfolio**: [My website](https://onesuchdan.github.io/OneSuchDaniel.github.io/)
+- **Portfolio**: [My website](https://onesuchdan.github.io/OneSuchDaniel.github.io/)(Not completed)
 
 ---  
 
